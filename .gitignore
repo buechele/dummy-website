@@ -1,5 +1,8 @@
 *.class
 
+# IntelliJ IDEA directory
+.idea/
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
